@@ -166,7 +166,7 @@ body::before {
 @media (max-width: 576px) {
   .profile-card__actions > button {
     min-width: inherit;
-    width: 200px;
+    width: 210px;
     max-width: 350px;
   }
 }
