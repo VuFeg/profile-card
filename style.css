@@ -97,7 +97,6 @@ body::before {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
 }
 .profile-card__social a {
   display: inline-flex;
@@ -167,7 +166,7 @@ body::before {
 @media (max-width: 576px) {
   .profile-card__actions > button {
     min-width: inherit;
-    width: 100px;
+    width: 200px;
     max-width: 350px;
   }
 }
